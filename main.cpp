@@ -30,3 +30,7 @@ for (int i = 0; i < 10; i++) {
 }
  return 0;
 }
+    //ecrire un programme C++ qui affiche le nombre de presence de chaque chiffre dans un entier fourni par l'utilisateur
+    cout << "bonjour Oumou";
+    return 0;
+}
