@@ -8,6 +8,7 @@ int main()
     int chiffre;
     cout <<" Entrez un entier :";
     cin >>*n;
+    //cas negatif
 if (*n<0){
     *n = -*n;
 }
